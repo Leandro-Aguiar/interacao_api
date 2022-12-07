@@ -1,0 +1,830 @@
+
+
+
+main{background-image: linear-gradient(to right,#142B77  ,black 50% ,#142B77 );}
+
+.container-fluid5{
+    padding: 0;
+    margin: 0;
+    width: auto;
+    height: 100%;
+    justify-content: center;
+    
+}
+
+.container-fluid5 .row .col-3 {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 0px;
+    
+
+}
+
+.container-fluid5 .row .col-3 .img-esquerda h4{
+    color: white;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    text-transform: uppercase;
+    bottom: 8.60vh;
+    border-style:solid;
+    border-radius: 20px;
+    
+    font-size: 1.83vw;
+    background-color: rgb(9, 99, 9);
+    
+    
+    
+    
+}
+
+.container-fluid5 .row .col-3 .img-esquerda h4:hover{
+    text-decoration: none; 
+    color: white; 
+    background-color: rgb(110, 26, 26);
+}
+
+.container-fluid5 .row .col-3 .img-direita h4:hover{
+    text-decoration: none; 
+    color: white; 
+    background-color: rgb(110, 26, 26);
+}
+
+
+.container-fluid5 .row .col-3 .img-direita h4{
+    
+    color: white;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    text-transform: uppercase;
+    bottom: 8.60vh;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: rgb(9, 99, 9);
+    font-size: 1.83vw;
+    
+    
+    
+}
+
+.img-esquerda {
+    position: absolute;
+    
+    width: 24.72vw;
+    height: 100%;
+    text-align: center;
+    
+
+} 
+
+.container-fluid5 .row .col-6 {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    
+    
+}
+
+
+.carrousel{
+    display: flex;
+    margin: 0;
+    border: 0px;
+    width: 50.32vw;
+    height: 73.5vh;
+    margin: 0px;
+    transition: transform 0.5s ease-in-out;
+    transform: translateX(0);
+    
+    position: relative;
+    
+}
+
+.carrousel img{
+    
+    width: 52.0vw;
+    height: 73.5vh;
+    
+}
+
+
+
+.carrousel .imgtexto{
+    min-width: 687.5px;
+    width: 50.33px;
+    height: 73.5px;
+    display: flex;
+   
+    
+    
+}
+
+.carrousel .imgtexto h3{
+
+    color: white;
+    position: absolute;
+    text-transform: uppercase;
+    margin-top: 30px;
+    width: 100%;
+    text-align: center;
+    
+    
+    
+}
+
+
+
+
+
+.img-esquerda img{
+    
+    width: 24.72vw;
+    height: 73.5vh;
+    
+
+}
+   
+.img-direita {
+    position: relative;
+    height: 73.5vh;
+    width: 24.72vw;
+    
+    
+    
+
+} 
+
+.container-fluid5 .row .col-3{
+    height: 73.5vh;
+    
+}
+    
+    
+
+
+.img-direita img {
+    width: 24.72vw;
+    height: 100%;
+    
+    
+
+    
+    
+}
+
+
+.col-4 .textbanner0{
+    
+    top: 150px;
+    color: white;
+    text-align: right;
+    
+}    
+
+.col-4 .textbanner0{
+    
+    top: 150px;
+    color: white;
+    text-align: justify;
+}    
+
+.col-4 .textbanner0{
+    
+    top: 150px;
+    color: white;
+     
+}    
+
+.abapromocoes{
+    position: relative;
+    background-color: black;
+    color: white;
+    text-align: center;
+    background-image: linear-gradient(to right,#142B77 ,black ,#142B77 );
+    text-transform: uppercase;
+      
+
+}
+
+p.solid{border-style: ridge;
+    height: 40px;
+   
+    border-left-width: 0px ;
+    border-right-width: 0px ;
+    
+    padding-top: 6px; 
+    margin-bottom: 0px;
+}
+
+.centror{
+    background-color: black;
+    height: 530px;
+    text-align: center;
+    background-image: linear-gradient(to right,#142B77  ,black 50% ,#142B77 );
+    position: relative;
+
+}
+
+.centro{ 
+    background-color: black;
+    height: 530px;
+    width: 100%;
+    text-align: center;
+    background-image: linear-gradient(to right,#142B77  ,black 50% ,#142B77 );
+    position: relative;
+    display: block;
+    
+
+}
+
+.botoes{
+    display: block;
+    position: relative;
+    text-align: center;
+    top: 90px;
+    
+    
+    
+}
+
+.dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 10px ;
+    background-color: #bbb;
+    border-radius: 50%;
+    text-align: center;
+    transition: background-color 0.6s ease; 
+  }
+
+#carousel1{
+    position: relative; 
+    display: block;
+    
+} 
+
+#carousel2{
+    position: relative; 
+    display: none;
+    
+} 
+
+#carousel3{
+    position: relative; 
+    display: none;
+    
+} 
+
+
+.figure2{
+    position: relative;
+    top: 50px;
+    width: 15.67vw;
+    height: 30.3vh;
+    border-style: solid;
+    
+}
+
+.textcentro{
+    position: relative;
+    top: 50px;
+    color: white;
+    text-justify: distribute;
+    text-transform: uppercase;
+
+}
+
+
+
+.botao{
+    position: relative;
+    display: inline-block;   
+    border-style: none;
+    border-radius: 10px;
+    background-color: rgb(9, 99, 9);
+    color: white;
+    width: 12.48vw;
+    height: 6.88vh;
+    padding-top: 1.377vh;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: medium;
+    
+    
+}
+
+.botao:hover{text-decoration: none; color: white; background-color: rgb(110, 26, 26);}
+
+.textcomprar{color: white; text-decoration: none;}
+.textcomprar:hover{color: white; text-decoration: none;}
+
+
+
+
+
+
+
+.abavendas{
+    position:relative;
+    background-color: black;
+    color: white;
+    
+    background-image: linear-gradient(to right,#142B77 ,black ,#142B77 );
+    border-style: ridge;
+    border-left: 0px;
+    border-right: 0px;
+    text-align: center
+    
+}
+
+p.solid2{
+    height: 100%;
+    
+    padding-top: 7px; 
+    margin-bottom: 5px;
+}
+
+p.solid2 label{
+    border-style: ridge ;
+    border-top: 0px;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-right: 0px;
+   
+    
+    
+
+}
+
+
+.container-fluid3 .row .col-4{
+    border-style: ridge;
+    height: 530px;
+    border-top: 0;
+    border-right: 0px;
+    border-bottom: 0px; 
+   
+
+}
+
+.container-fluid4 .row .col-4{
+    border-style: ridge;
+    border-bottom: 0px;
+    border-top: 0px;
+    border-right: 0px;
+    
+}
+
+.abadepoimentos{
+    position: relative;
+    background-color: black;
+    color: white;
+    text-align: center;
+    background-image: linear-gradient(to right,#142B77 ,black ,#142B77 );
+    text-transform: uppercase;
+      
+}
+.figure3{
+    position: relative;
+    top: 50px;
+    width: 15.79vw;
+    height: 33.75vh;
+    border-style: solid;
+
+}
+
+.depoimentos{
+    
+    width: 98.9vw;
+    height: 400px;
+    background-image: linear-gradient(to right,#142B77  ,black 50% ,#142B77 );
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 10px; 
+    
+    
+
+}
+
+#seta1 {
+    position: relative;
+    padding: 20px;
+    box-shadow: 2px -2px 0 1px green inset;
+    border: solid transparent;
+    border-width: 0 0 2px 2px;
+    transform: rotate(45deg);
+    justify-content: end;
+    justify-items: center;
+    background-color: transparent;
+    bottom:  17.21vh;
+    right: 29.28vw;
+    
+  }
+
+  #seta2 {
+    position: relative;
+    padding: 20px;
+    box-shadow: 2px -2px 0 1px green inset;
+    border: #082E8F;
+    border-width: 0 0 2px 2px;
+    transform: rotate(225deg);
+    background-color: transparent;
+    bottom:  17.21vh;
+    left: 29.28vw;
+  }
+
+#depo1{
+    display: block;
+
+
+}
+
+#depo2{
+    display: none;
+
+
+}
+
+#depo3{
+    display: none;
+
+
+}
+
+.depoimentos .figure4{
+    margin-top: 30px;
+    width: 6.95vw;
+    height: 16.35vh;
+    margin-bottom: -15px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+    
+}
+
+.depoimentos p{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2.58vh;
+    width: 337.75px;
+    padding-bottom: 1.72vh;
+    text-align: justify;
+}
+
+#barras{
+    display: none;
+
+}
+
+#rescel{
+    display: none;
+}
+
+#imgguerreiroc{display: none;}
+#menucel{display: none;}
+
+@media screen and (max-width: 450px) {
+    #cadcompr {
+        display: none;
+        position: absolute;
+        
+        
+        height: 80px;
+        
+    }
+
+    .login{margin: 0;}
+
+    #menucel{
+        display: none;
+        position: relative;
+        
+        width: 100%;
+        
+        
+    }
+
+    #respc{
+        display: none;
+    }
+
+    #rescel{
+        display: block;
+    }
+
+
+
+    #busca{
+        display: none;
+        position: relative;
+        background-color: darkgreen;
+
+        
+    }
+
+    #barras{
+        display: flex;
+        justify-content: right;
+        align-items: center;
+        text-align: right;
+        
+        
+        
+    }
+    
+    
+
+    .container-fluid5 .row{
+        flex-direction: column;
+        height: 470px;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        position: relative;
+        
+        
+    }
+    #imgguerreiro{display: none;}
+    
+    .container-fluid5 .row .col-6{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        height: 210px;
+        overflow-y: hidden;
+        
+    }
+
+    #img-carrousel .imgtexto img {
+        width: 65%;
+        height: 210px;
+        position: relative;
+        
+    }
+
+    
+
+    #img-carrousel .imgtexto h3{
+        position: absolute;
+        margin-left: 25.78vw;
+        margin-top: 0.86vh;
+    text-align: center;
+        
+        
+        
+        
+    }
+
+    .carrousel .imgtexto{
+        text-align: center;
+        
+        
+        
+        display: flex;
+        
+    
+    }
+
+    #imgcel{display: flex;}
+
+    #imgguerreiroc{
+        position: relative;
+        display: flex;
+        width: 49.47vw;
+        height: 260px;
+        
+    }
+
+    #imgguerreiroc img{
+        display: flex;
+        width: 49.47vw;
+        height: 260px;
+    }
+    
+    .img-direita{
+        display: flex;
+        width: 50.47vw;
+        height: 260px;
+        
+    }
+
+    .img-direita img{
+        width: 50.47vw;
+        height: 260px;
+    }
+
+    .textcomprar{
+        display: flex;
+        position: absolute;
+        bottom: -7.44vh;
+        
+        
+    }
+    .container-fluid5 .row .col-3 .img-esquerda h4{
+        font-size: 0.9em;
+        left: 5.60vw;
+        
+    }
+
+    .container-fluid5 .row .col-3 .img-direita h4{
+        font-size: 0.9em;
+        left: 6.50vw;
+        
+    }
+
+
+    .textcomprar h4{
+        display: flex;
+        
+        width: 37.445vw;
+        
+        
+    }
+    
+
+    .container-fluid5 .row .col-3{
+        position: relative;
+        text-align: center;
+        height: 30.98vh;
+        
+    }
+       
+    
+    .figure2{
+        width: 100px;
+        height: 100px;
+
+    }
+
+    
+
+    .textcentro p{
+        
+        font-size: 0.813em;
+        
+
+    }
+    
+
+    .figure3{
+        width: 100px;
+        height: 100px;
+    }
+    
+    .botao{
+        width: 25.59vw;
+        height: 5vh;
+        /* position: absolute; */
+    }
+    
+
+    .botao .textcomprar p{
+        margin-left: 3.80vw;
+        margin-bottom: 8.40vh;
+    }
+
+    #seta1{
+        top: 80px;
+    }
+
+    #seta2{
+        top: 80px;
+    }
+
+    #depo1 img{
+        width: 70px;
+        height: 70px;
+    }
+
+    #depo2 img{
+        width: 70px;
+        height: 70px;
+    }
+
+    #depo3 img{
+        width: 70px;
+        height: 70px;
+    }
+
+    
+}
+
+
+@media screen and (max-width: 800px) and (min-width: 450px) {
+
+
+    .centror{
+        background-color: black;
+        height: 61.22vh;
+        text-align: center;
+        background-image: linear-gradient(to right,#142B77  ,black 50% ,#142B77 );
+        position: relative;
+    
+    }
+    
+    .centro{ 
+        background-color: black;
+        height: 61.22vh;
+        width: 100%;
+        text-align: center;
+        background-image: linear-gradient(to right,#142B77  ,black 50% ,#142B77 );
+        position: relative;
+        display: block;
+        
+    
+    }
+
+    .container-fluid3 .row .col-4{
+        height: 61.22vh;
+
+    }
+
+    .figure2{
+        position: relative;
+        top: 50px;
+        width: 15.67vw;
+        height: 15.3vh;
+        border-style: solid;
+        
+    }
+
+    .figure3{
+        position: relative;
+        top: 50px;
+        width: 15.67vw;
+        height: 15.3vh;
+        border-style: solid;
+        
+    }
+
+    .carrousel img{
+    
+        width: 52.0vw;
+        height: 53.5vh;
+        
+    }
+
+    .carrousel{
+        display: flex;
+        margin: 0;
+        border: 0px;
+        width: 50.32vw;
+        height: 53.5vh;
+        margin: 0px;
+        transition: transform 0.5s ease-in-out;
+        transform: translateX(0);
+        
+        position: relative;
+        
+    }
+
+    .img-esquerda img{
+    
+        width: 24.72vw;
+        height: 53.5vh;
+        
+    
+    }
+
+    .img-direita {
+        position: relative;
+        height: 53.5vh;
+        width: 24.72vw;
+        
+        
+        
+    
+    } 
+
+    .container-fluid5{
+        height: 53.5vh;
+    }
+
+    .figure5{
+        width: 3.93vw;
+        height: 3.93vh;
+        margin-right: 1.464vw;
+        margin-bottom: 1.72vh;
+        
+    }
+
+    .depoimentos .figure4{
+        margin-top: 30px;
+        width: 10.95vw;
+        height: 10.35vh;
+        margin-bottom: -15px;
+        border-radius: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        
+        
+    }
+
+}

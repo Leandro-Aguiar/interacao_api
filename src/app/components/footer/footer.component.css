@@ -1,0 +1,69 @@
+.rodape{
+    position: relative;
+    width: 100%;
+    /* height: 210px; */
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    
+    background-color: black;
+    text-decoration: none;
+    
+} 
+
+#rescel{
+    display: none;
+}
+
+.links {
+    padding-top: 10px;
+    text-decoration: none;
+    color: white;
+    
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.figure5{
+    width: 2.93vw;
+    height: 6.88vh;
+    margin-right: 1.464vw;
+    margin-bottom: 1.72vh;
+    
+}
+
+@media screen and (max-width: 450px) {
+
+    .rodape .container-fluid6 .row{
+        flex-direction: column;
+    }
+
+
+    .rodape .container-fluid6 .row .col-4 {
+        
+        text-align: center;
+        justify-content: center;
+        justify-items: center;
+        align-items: center;
+        margin-left: 110px;
+        margin-right: 110px;
+        
+    }
+
+    
+
+    .figure5{
+        width: 22px;
+        height: 22px;
+    }
+
+    #respc{
+        display: none;
+    }
+
+    #rescel{
+        display: block;
+    }
+
+}

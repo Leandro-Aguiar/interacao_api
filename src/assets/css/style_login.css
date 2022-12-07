@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+    
+    
+}
+
+
+
+.row{
+    margin-right: 0;
+    margin-left: 0;
+    
+}
+
+
+Header{
+    
+    color: white;
+    text-transform: uppercase;
+    background-image: linear-gradient(to bottom,black 20%,#082E8F );
+    
+    
+    
+}
+
+
+
+.abaprodutos{
+    
+    width: 100%;
+    height: 100%;
+    margin: 20px 0px 0px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    
+    
+    display: flex;
+    
+
+}
+
+
+
+.teste .abaprodutos a {
+    
+    bottom: 9px;
+    
+    justify-content: space-around;
+    
+    
+    
+}
+
+p.inset {border-style: inset;
+    width: 80%;
+    height: 50%;
+    
+    display:inline-block
+
+}
+
+#buscador{
+    width: 100%;
+    height: 100%;
+    background-color:transparent;
+    color: white;
+    display:inline-block
+    
+}
+
+.home{
+    text-decoration: none;
+    color: white;
+}
+
+
+.carrinho{
+    width: 40px;
+    height: 40%;
+    
+    position: relative;
+}
+
+.login{display:inline-block ; margin: 0px 10px; text-decoration: none; color: white;}
+
+.container-fluid .col-4{
+    text-align: center;
+    display: relative;
+}
+
+.lupa{
+
+    width: 10%;
+    height: 50%;
+    
+    
+}
+
+.teste{
+
+    background-color: red;
+    width: auto;
+    height: 100%;
+    
+    background-image: linear-gradient(to bottom,#0637b4 5px,black 35px );
+}
+
+
+main{background-image: linear-gradient(to right,#142B77  ,black 50% ,#142B77 );}
+
+.container{
+    height: 86.06vh;
+    color: white;
+    display:block;
+    padding-top: 14.63vh;
+    
+    
+    padding-bottom: 34.42vh;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+form{border-style: inset;
+margin-right: 8.30vw;
+margin-left: 8.30vw;
+padding-top: 8.61vh;
+padding-bottom: 8.61vh;
+background-color: darkslategrey;
+border-color: red;
+
+}
+
+
+.cadastro{text-decoration: none;
+    color: white;
+    
+}
+
+.rodape{
+    position: relative;
+    width: 100%;
+    /* height: 210px; */
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    
+    background-color: black;
+    text-decoration: none;
+    
+} 
+
+.links {
+    padding-top: 10px;
+    text-decoration: none;
+    color: white;
+    
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.figure5{
+    width: 2.93vw;
+    height: 6.88vh;
+    margin-right: 1.464vw;
+    margin-bottom: 1.72vh;
+    
+}
+
+#barras{
+    display: none;
+
+}
+
+#rescel{
+    display: none;
+}
+
+#menucel{display: none;}
+
+#imgguerreiroc{display: none;}
+
+@media screen and (max-width: 450px) {
+
+    .container{
+        height: 80.06vh;
+    }
+    #cadcompr {
+        display: none;
+        position: absolute;
+        
+        
+        height: 80px;
+        
+    }
+    .login{margin: 0;}
+
+    #menucel{
+        display: none;
+        position: relative;
+        
+        width: 100%;
+        
+        
+    }
+
+    #respc{
+        display: none;
+    }
+
+    #rescel{
+        display: block;
+    }
+
+
+    #busca{
+        display: none;
+        position: relative;
+        background-color: darkgreen;
+
+        
+    }
+
+    #barras{
+        display: flex;
+        justify-content: right;
+        align-items: center;
+        text-align: right;
+        
+        
+        
+    }
+    
+    .figure5{
+        width: 22px;
+        height: 22px;
+    }
+}
